@@ -50,6 +50,7 @@
     { "path": "./packages/client/ui-slots" },
     { "path": "./packages/client/schema-form" },
     { "path": "./packages/client/ui-attachment" },
+    { "path": "./packages/client/ui-background" },
     { "path": "./packages/client/ui-primitives" },
     { "path": "./packages/client/web-react" },
     { "path": "./packages/client/modules" },
